@@ -1,6 +1,5 @@
-## I am Abbas Nadir,
-     CSE Student at Ramdeobaba University, Nagpur
-     07/2024 - Present
+## I am pro0grammer,
+     A CSE Student @ 2nd year.
 
 A Full-Stack Web Developer with specialiaztion in **Node.js** and **React** and a linux enthusiast with newly found interest in FOSS. An active CP participant and a hackathon enthusiast.
 
