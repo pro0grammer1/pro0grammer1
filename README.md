@@ -20,4 +20,4 @@ Linux CLI<br>
 > ⚠️ This project is currently being developed.
 4. [Chatbot](https://github.com/pro0grammer1/chatbot): A google gemini wrapper with persistent storage in database and authentication.
 5. [Student Records](https://github.com/pro0grammer1/student-records): A simple website to maintain simple student records.  
-6. [Lock Keys](https://github.com/pro0grammer1/lock-keys): Daemon and applets to track and update the lock-keys (specifically numslock and capslock) for the computers without keyboard lights for these keys. Originally developed for popOS on Cosmic DE.
+6. [Lock Keys](https://github.com/pro0grammer1/lock-keys): Daemon and applets to track and display the lock-keys state (specifically numslock and capslock) for the keyboards without lights for these keys. Originally developed for popOS on Cosmic DE.
