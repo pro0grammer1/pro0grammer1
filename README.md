@@ -1,6 +1,6 @@
-## I am pro0grammer,
-     A CSE Student @ 2nd year.
-
+## I am Abbas Nadir,
+     CSE Student at Ramdeobaba University, Nagpur
+     07/2024 - Present
 A Full-Stack Web Developer with specialiaztion in **Node.js** and **React** and a linux enthusiast with newly found interest in FOSS. An active CP participant and a hackathon enthusiast.
 
 Node.js<br>
@@ -20,3 +20,4 @@ Linux CLI<br>
 > ⚠️ This project is currently being developed.
 4. [Chatbot](https://github.com/pro0grammer1/chatbot): A google gemini wrapper with persistent storage in database and authentication.
 5. [Student Records](https://github.com/pro0grammer1/student-records): A simple website to maintain simple student records.  
+6. [Lock Keys](https://github.com/pro0grammer1/lock-keys): Daemon and applets to track and update the lock-keys (specifically numslock and capslock) for the computers without keyboard lights for these keys. Originally developed for popOS on Cosmic DE.
